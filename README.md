@@ -103,7 +103,3 @@ AWS Console → EC2 → instance in **running** state.
 ## Challenge deliverables
 
 This repo is the Terraform code + deploy steps + screenshots above.
-
-Still take separately for submission:
-
-- LinkedIn post tagging HUG Lagos and HUG Ibadan (link this GitHub repo)
